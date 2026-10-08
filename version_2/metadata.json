@@ -1,0 +1,6 @@
+{
+  "name": "Gamified Low-Bandwidth Learning Platform",
+  "description": "Accessible, offline-first gamified mobile learning platform interface designed for rural students with tactile high-contrast controls, quest map, micro-quizzes, and peer sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Vidyodaya",
+  "description": "Gamified learning PWA for rural education featuring stepped Duolingo-style progression, offline-first syncing, interactive STEM micro-lessons, and real-time student analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
